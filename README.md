@@ -19,7 +19,7 @@ Todos os roteiros podem ser acessados pelo site do Github.
 - [Aula 03 - Histograma e Medidas resumo](./aula03)
     - [Atividade de sala](./aula03/Aula03_Atividade_ExplorandoVariáveisQuantitativas_TV.ipynb)
     - [Exercícios](./aula03/Aula03_Exercicio_ExplorandoVariáveisQuantitativas_LIFE.ipynb)
-    - [Base de dados: EmpresaTV Cod.xlsx](./aula03/EmpresaTV%20Cod.xlsx)
+    - [Base de dados: EmpresaTV Cod.xlsx](./aula03/EmpresaTV_Cod.xlsx)
     - [Base de dados: Life.xlsx](./aula03/Life.xlsx)
 
 
