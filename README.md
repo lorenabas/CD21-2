@@ -26,7 +26,11 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Exercícios](./aula04/Aula04_Exercicio_ExplorandoDuasVariaveisQuantitativas_Discriminacao.ipynb)
     - [Base de dados: Discriminacao.xlsx](./aula04/Discriminacao.xlsx)
     - [Base de dados: Mundo.xlsx](./aula04/Mundo.xlsx)
-
+ - [Aula 05 - Teoria da Probabilidade - APS3](./aula05)
+    - [Exercícios](./aula05/Aula05_Exercicio_TeoriaDaProbabilidade.ipynb)
+ - [Aula 06 - Teoria da Probabilidade: Classificador Naive Bayes](./aula06)
+    - [Atividade de sala](./aula06/Aula06_Atividade_Titanic_ClassificadorNB.ipynb)
+    - [Base de dados: titanic.xlsx](./aula06/titanic.xlsx)   
 
 
 
