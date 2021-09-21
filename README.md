@@ -31,7 +31,18 @@ Todos os roteiros podem ser acessados pelo site do Github.
  - [Aula 06 - Teoria da Probabilidade: Classificador Naive Bayes](./aula06)
     - [Atividade de sala](./aula06/Aula06_Atividade_Titanic_ClassificadorNB.ipynb)
     - [Base de dados: titanic.xlsx](./aula06/titanic.xlsx)   
-
+ - [Aula 07 - Classificador Naive Bayes com texto](./aula07)
+    - [Atividade](./aula07/Aula07_Atividade_Texto_Camoes_Machado_MLcomNB.ipynb)
+    - [Dom Casmurro](./aula07/textos/domcasmurro_texto.txt)
+    - [Os Lusíadas](./aula07/textos/lusiadas_texto.txt)
+ - [Aula 09 - Variáveis Aleatórias Discretas](./aula09)
+    - [Atividade](./aula09/Aula09_Atividade_VariaveisAleatoriasDiscretas.ipynb)
+    - [Exercícios](./aula09/Aula09_Exercicio_VariaveisAleatoriasDiscretas.ipynb)
+ - [Aula 10 - Modelo probabilístico discreto: Binomial](./aula10)
+    - [Exemplo](./aula11/Aula10_Exemplo_Resistores.ipynb)
+    - [Atividade](./aula11/Aula10_Atividade_ModelosProbabilísticosDiscretos.ipynb)
+    - [Exercícios](./aula11/Aula10_Exercicios_ModelosProbabilísticosDiscretos.ipynb)
+    - [Base de dados: Carros.txt](./aula10/Carros.txt)  
 
 
 
