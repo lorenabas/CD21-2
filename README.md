@@ -39,12 +39,18 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Atividade](./aula09/Aula09_Atividade_VariaveisAleatoriasDiscretas.ipynb)
     - [Exercícios](./aula09/Aula09_Exercicio_VariaveisAleatoriasDiscretas.ipynb)
  - [Aula 10 - Modelo probabilístico discreto: Binomial](./aula10)
-    - [Exemplo](./aula11/Aula10_Exemplo_Resistores.ipynb)
-    - [Atividade](./aula11/Aula10_Atividade_ModelosProbabilísticosDiscretos.ipynb)
-    - [Exercícios](./aula11/Aula10_Exercicios_ModelosProbabilísticosDiscretos.ipynb)
+    - [Exemplo](./aula10/Aula10_Exemplo_Resistores.ipynb)
+    - [Atividade](./aula10/Aula10_Atividade_ModelosProbabilísticosDiscretos.ipynb)
+    - [Exercícios](./aula10/Aula10_Exercicio_ModelosProbabilísticosDiscretos.ipynb)
     - [Base de dados: Carros.txt](./aula10/Carros.txt)  
-
-
+ - [Aula 11 - Modelo probabilístico discreto: Poisson](./aula11)
+    - [Exemplo](./aula11/Aula11_Exemplo_Chatbot.ipynb)
+    - [Atividade](./aula11/Aula11_Atividade_ModelosProbabilisticosDiscretosPoisson.ipynb)
+    - [Exercícios](./aula11/Aula11_Exercicio_ModelosProbabilísticosDiscretos.ipynb)
+    - [Base de dados: erupcoes.csv](./aula11/erupcoes.csv)  
+  - [Aula 12 - Alguns exercícios para Revisão de ALGUNS tópicos](./aula12)
+    - [Exercícios](./aula12/Aula12_Exercicio_Revisao.ipynb)
+    - [Base de dados: StudentsPerformance.csv](./aula12/StudentsPerformance.csv)  
 
 
 
